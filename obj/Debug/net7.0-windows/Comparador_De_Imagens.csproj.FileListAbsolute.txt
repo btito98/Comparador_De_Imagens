@@ -1,0 +1,17 @@
+C:\Users\bruno\Desktop\Comparador_De_Imagens\bin\Debug\net7.0-windows\Comparador_De_Imagens.exe
+C:\Users\bruno\Desktop\Comparador_De_Imagens\bin\Debug\net7.0-windows\Comparador_De_Imagens.deps.json
+C:\Users\bruno\Desktop\Comparador_De_Imagens\bin\Debug\net7.0-windows\Comparador_De_Imagens.runtimeconfig.json
+C:\Users\bruno\Desktop\Comparador_De_Imagens\bin\Debug\net7.0-windows\Comparador_De_Imagens.dll
+C:\Users\bruno\Desktop\Comparador_De_Imagens\bin\Debug\net7.0-windows\Comparador_De_Imagens.pdb
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.Form1.resources
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.dll
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\refint\Comparador_De_Imagens.dll
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.pdb
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\Comparador_De_Imagens.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Comparador_De_Imagens\obj\Debug\net7.0-windows\ref\Comparador_De_Imagens.dll

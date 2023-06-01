@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Comparador_De_Imagens/1.0.0": {
+        "runtime": {
+          "Comparador_De_Imagens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comparador_De_Imagens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
